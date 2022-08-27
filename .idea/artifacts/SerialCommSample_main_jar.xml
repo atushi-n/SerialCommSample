@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SerialCommSample.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SerialCommSample_main_jar</output-path>
+    <root id="archive" name="SerialCommSample.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SerialCommSample.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fazecast/jSerialComm/2.9.1/9017dc39fc063489c2e509f0bde8096a57c2e5c0/jSerialComm-2.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
